@@ -1,6 +1,6 @@
 # bootstrap5-demo-mc
 
-## 介绍Cancel changes
+## 介绍
 
 使用 Bootstrap5 建立的 Minecraft Server 演示页面
 
